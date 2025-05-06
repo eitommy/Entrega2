@@ -1,13 +1,9 @@
-# Archivos del sistema
 .DS_Store
 Thumbs.db
 
-# Evitar subir editores
 .vscode/
 .idea/
 
-# Node modules si usás npm
 node_modules/
 
-# Archivos personales
 *.log

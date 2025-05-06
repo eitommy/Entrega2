@@ -14,13 +14,11 @@ body {
     height: auto;
   }
   
-  /* Layout Container */
   .container {
     max-width: 960px;
     margin: auto;
   }
   
-  /* Evitar overflow horizontal */
   body {
     overflow-x: hidden;
   }
